@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\64b0ce25622b4ea581c92bae169e27cb\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\217453c47de1a0717dc5414fcb3a8360\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\050b1e3c43e7bfc0a59ebaebfd631dab\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\1a297d6b3f5c737eff724cc196586aba\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\1813ee64f376bca0fa83577c78f79d28\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\dba729453374e4f9bebe3315828718ff\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\d3f2aa0e1b6d88641a777a326a173414\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\130dc855d9fba849ab58fbf9ae2d2bd4\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\550667b5905527a22f8aaeb9e80113ee\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\2c36b8c00682465fd55cd7db2e6a296f\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\6dfd59ac4075c9dc753c5383e89c1591\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\c387860e27d56306b8c12a74f41644f8\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\b9d8e68f956554766ccb7c685695295f\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\1b8cd6b8594069a78ff5c19a768d589d\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\0b7665ac6e30ae09a787fea5e907d700\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\373dd6b6b30ef367e5a63becbb25ab2a\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\73c775d8f9b7554b96af411c3017d3af\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\9daed20b214cbf823bd53ea88746d536\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\bd06d8ddb93998ba04cfc7d10bdc69a4\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\34e0cbed2b5b68ec0d5bf106f4aa1ad4\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\f9a5f5939666b4514a0e0e9e0b091a34\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\5e3d91f5dcbe8d21b14e665fb67ceadf\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\1809de81746c7de6f9c9957259aa5ee3\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\350569a437244b72e0bf4fa96ba69c2e\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\e998200a73976ffc348ec325cef9e7b0\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\4799682caece8cf302aae75acb20980f\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\fb34146bec5335a9ac027ca1b60736a5\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\ad397b1f5848cb7e7bc9631cefe3ab9b\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\26effff15aa8a0a128ce9a7ff87ffeff\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:3:5-25
+		INJECTED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:9:5-31:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\9daed20b214cbf823bd53ea88746d536\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\9daed20b214cbf823bd53ea88746d536\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\bd06d8ddb93998ba04cfc7d10bdc69a4\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\bd06d8ddb93998ba04cfc7d10bdc69a4\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\9daed20b214cbf823bd53ea88746d536\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:11:9-49
+	android:allowBackup
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:13:9-50
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:14:9-44
+activity#rs.in.raf1.TermListActivity
+ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:15:9-25:20
+	android:label
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:17:12-44
+	android:name
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:16:12-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:20:27-74
+meta-data#android.app.searchable
+ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:22:13-24:54
+	android:resource
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:24:17-51
+	android:name
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:23:17-54
+activity#rs.in.raf1.TermPagerActivity
+ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:27:9-29:71
+	android:parentActivityName
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:29:13-59
+	android:name
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml:28:13-46
+uses-sdk
+INJECTED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\64b0ce25622b4ea581c92bae169e27cb\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\64b0ce25622b4ea581c92bae169e27cb\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\217453c47de1a0717dc5414fcb3a8360\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\217453c47de1a0717dc5414fcb3a8360\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\050b1e3c43e7bfc0a59ebaebfd631dab\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\050b1e3c43e7bfc0a59ebaebfd631dab\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\1a297d6b3f5c737eff724cc196586aba\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\1a297d6b3f5c737eff724cc196586aba\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\1813ee64f376bca0fa83577c78f79d28\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\1813ee64f376bca0fa83577c78f79d28\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\dba729453374e4f9bebe3315828718ff\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\dba729453374e4f9bebe3315828718ff\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\d3f2aa0e1b6d88641a777a326a173414\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\d3f2aa0e1b6d88641a777a326a173414\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\130dc855d9fba849ab58fbf9ae2d2bd4\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\130dc855d9fba849ab58fbf9ae2d2bd4\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\550667b5905527a22f8aaeb9e80113ee\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\550667b5905527a22f8aaeb9e80113ee\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\2c36b8c00682465fd55cd7db2e6a296f\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\2c36b8c00682465fd55cd7db2e6a296f\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\6dfd59ac4075c9dc753c5383e89c1591\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\6dfd59ac4075c9dc753c5383e89c1591\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\c387860e27d56306b8c12a74f41644f8\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\c387860e27d56306b8c12a74f41644f8\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\b9d8e68f956554766ccb7c685695295f\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\b9d8e68f956554766ccb7c685695295f\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\1b8cd6b8594069a78ff5c19a768d589d\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\1b8cd6b8594069a78ff5c19a768d589d\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\0b7665ac6e30ae09a787fea5e907d700\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\0b7665ac6e30ae09a787fea5e907d700\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\373dd6b6b30ef367e5a63becbb25ab2a\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\373dd6b6b30ef367e5a63becbb25ab2a\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\73c775d8f9b7554b96af411c3017d3af\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\73c775d8f9b7554b96af411c3017d3af\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\9daed20b214cbf823bd53ea88746d536\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\9daed20b214cbf823bd53ea88746d536\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\bd06d8ddb93998ba04cfc7d10bdc69a4\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\bd06d8ddb93998ba04cfc7d10bdc69a4\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\34e0cbed2b5b68ec0d5bf106f4aa1ad4\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\34e0cbed2b5b68ec0d5bf106f4aa1ad4\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\f9a5f5939666b4514a0e0e9e0b091a34\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\f9a5f5939666b4514a0e0e9e0b091a34\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\5e3d91f5dcbe8d21b14e665fb67ceadf\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\5e3d91f5dcbe8d21b14e665fb67ceadf\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\1809de81746c7de6f9c9957259aa5ee3\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\1809de81746c7de6f9c9957259aa5ee3\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\350569a437244b72e0bf4fa96ba69c2e\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\350569a437244b72e0bf4fa96ba69c2e\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\e998200a73976ffc348ec325cef9e7b0\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\e998200a73976ffc348ec325cef9e7b0\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\4799682caece8cf302aae75acb20980f\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\4799682caece8cf302aae75acb20980f\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\fb34146bec5335a9ac027ca1b60736a5\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\fb34146bec5335a9ac027ca1b60736a5\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\ad397b1f5848cb7e7bc9631cefe3ab9b\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\ad397b1f5848cb7e7bc9631cefe3ab9b\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\26effff15aa8a0a128ce9a7ff87ffeff\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-2\files-2.1\26effff15aa8a0a128ce9a7ff87ffeff\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Zoran\Desktop\Tablet Notepad\app\src\main\AndroidManifest.xml
